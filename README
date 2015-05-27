@@ -1,0 +1,2 @@
+chef add multi user with data_bag include authorized_keys for ssh.
+by sam http://boredom.gotdns.com
