@@ -1,0 +1,7 @@
+{
+  "id": "depo2",
+  "password": "$1$pXzsdwHH$1ZRSjvl/eDKO7zZCLJZp5/",
+  "comment": "depo2",
+        "shell":        "\/bin\/bash",
+	"ssh_keys":	"ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEApuPYtdJfUi4Tgr9YhP/tBaeAOUJUSYmReqL/pMgMuoCpv7DBZoz2+6+8r5rbAwM47yXe8bViuXb44eJBlESydThB6RqbA7SMazZ3bsbU9oqZ6f8KJ7baUobwmQivlv6U6KBr3wC6LCeQK/LjXHU2NT14L5j+xVwpFr98+pjBAb9QWcUBG5aGKLrY+nB+cIhXGABKYGx44xiHkT6caxC9B5aX1/oDPRHiwOawqO/F1wvSggTto1LVzApjYqqNiGzyPtdVvw9pwSpVWZgXA2Eb9179WOTkTb0/F4m6ns/vUEtlcZpZCS7ysI79ktp/fDWV46uHfAxvXjSOCH9PUEgpYQ== root@opennms"
+}
